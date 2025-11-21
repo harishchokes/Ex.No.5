@@ -1,5 +1,5 @@
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS
-
+## 212222060078
 ## Aim
 To test and compare how different pattern models respond to **naïve prompts** (broad/unstructured) versus **basic prompts** (clear, detailed, and structured) across multiple scenarios. The analysis will evaluate **quality, accuracy, and depth** of generated responses.
 
